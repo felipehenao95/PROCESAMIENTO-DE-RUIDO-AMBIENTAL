@@ -1,0 +1,26 @@
+Archivo	EMRI_4.CMG
+Comentarios	
+File type details	Campaign CUBE
+Inicio	19:00:00:000 domingo, 31 de julio de 2022
+Fin	7:00:00:500 jueves, 1 de septiembre de 2022
+Duración elemental	500ms
+Número total de períodos	5443201
+Canal	Tipo	Pondera.	Tipo cuantitativo	Unidad	Min.	Max.	Min.	Max.
+EMRI_4	Leq	A	Presión	dB	10	120		
+EMRI_4	Slow	A	Presión	dB	10	110		
+EMRI_4	Impulso	A	Presión	dB	10	130		
+EMRI_4	Pico	C	Presión	dB	20	150		
+EMRI_4	Slow Inst	A	Presión	dB	10	110		
+EMRI_4	Slow Max	A	Presión	dB	10	110		
+EMRI_4	Slow Min	A	Presión	dB	10	110		
+EMRI_4	PNL	PN	Presión	dB	-60	130		
+EMRI_4	PNLT	TPN	Presión	dB	-60	130		
+EMRI_4	Multiespectro 1/3 Oct Leq	Lin	Presión	dB	0	130	6.3Hz	20kHz
+EMRI_4	Multiespectro 1/3 Oct Slow Inst	Lin	Presión	dB	0	130	6.3Hz	20kHz
+Device type	CUBE
+Device serial number	10805
+Sensor type	Accredited_40CD
+Sensor serial number	224129
+Coordinates	4.723621° N
+	74.183434° W
+Time zone	(UTC) Hora universal coordinada

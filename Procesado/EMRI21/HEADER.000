@@ -1,0 +1,25 @@
+Archivo	EMRI_21.CMG
+Comentarios	
+File type details	Campaign CUBE
+Inicio	19:00:00:000 domingo, 31 de julio de 2022
+Fin	7:00:00:000 jueves, 1 de septiembre de 2022
+Duración elemental	500ms
+Número total de períodos	5443200
+Canal	Tipo	Pondera.	Tipo cuantitativo	Unidad	Min.	Max.	Min.	Max.
+EMRI_21	Leq	A	Presión	dB	20	110		
+EMRI_21	Slow	A	Presión	dB	20	110		
+EMRI_21	Impulso	A	Presión	dB	20	120		
+EMRI_21	Pico	C	Presión	dB	40	150		
+EMRI_21	Slow Inst	A	Presión	dB	20	110		
+EMRI_21	Slow Max	A	Presión	dB	20	110		
+EMRI_21	Slow Min	A	Presión	dB	20	110		
+EMRI_21	PNL	PN	Presión	dB	-60	120		
+EMRI_21	PNLT	TPN	Presión	dB	-60	120		
+EMRI_21	Multiespectro 1/3 Oct Leq	Lin	Presión	dB	0	120	6.3Hz	20kHz
+EMRI_21	Multiespectro 1/3 Oct Slow Inst	Lin	Presión	dB	0	120	6.3Hz	20kHz
+Device type	CUBE
+Device serial number	10830
+Sensor serial number	224337
+Coordinates	4.684679° N
+	74.132784° W
+Time zone	(UTC) Hora universal coordinada
